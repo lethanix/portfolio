@@ -2,7 +2,7 @@ export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
   name: "Louis Murguia",
   jobDescription: "Web Developer",
-  about: `I'm a backend developer and cloud enthusiast.
+  about: `aka lethanix. I'm a web developer and cloud enthusiast.
           I love learning new things and never stop exploring
           new technologies.`,
 
@@ -71,7 +71,7 @@ export const info = {
 
   education: [
     {
-      name: "Autonomous University of San Luis Potosi (UASLP)",
+      name: "Autonomous University of San Luis Potosi",
       position: "Mexico",
       startDate: "2019",
       endDate: "2022",
